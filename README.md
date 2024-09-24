@@ -4,8 +4,8 @@ Lichen mining stuff. Right now just assembling transcriptomes. A mix between han
 # High-level Overview
 
 1. Assemble + annotate Lichen transcriptomes
-2. Quasi-map against fungal ITS sequences to make claims on fungal diversity? Looking for basidomyctes.
-3. Make wild claims
+2. Look for evidence of a second fungal partner by mapping to ITS sequences
+3. Hunt for novel compounds
 
 ## srx2sra.py
 We got the SRX IDs for paired-end RNAseq studies on Lecanoromycetes from: https://www.ncbi.nlm.nih.gov/sra/?term=Lecanoromycetes.
